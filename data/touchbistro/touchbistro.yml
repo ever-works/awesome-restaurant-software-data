@@ -1,0 +1,12 @@
+name: "TouchBistro"
+description: "iPad-based restaurant POS designed for full-service and quick-service venues. Provides tableside ordering, menu management, and offline mode. Paid license with optional hardware bundles."
+source_url: "https://www.touchbistro.com/"
+category: "Restaurant POS"
+tags:
+  - "paid"
+  - "cloud"
+  - "ipad"
+  - "restaurant-pos"
+icon_url: "https://icons.duckduckgo.com/ip3/www.touchbistro.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.touchbistro.com/>\n"
+updated_at: "2026-11-22 03:16"

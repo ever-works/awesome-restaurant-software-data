@@ -1,0 +1,13 @@
+name: "SevenRooms"
+description: "Guest experience and reservation platform for hospitality operators. Combines bookings, CRM, marketing, and table management. Paid subscription with tiered features."
+source_url: "https://www.sevenrooms.com/"
+category: "Reservations & Waitlists"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "enterprise"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sevenrooms.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.sevenrooms.com/>\n"
+updated_at: "2026-11-22 03:16"

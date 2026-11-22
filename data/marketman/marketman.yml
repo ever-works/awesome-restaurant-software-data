@@ -1,0 +1,13 @@
+name: "MarketMan"
+description: "Inventory and purchasing management platform for restaurants and foodservice groups. Tracks stock, vendor orders, and food costs with POS integrations. Paid cloud subscription."
+source_url: "https://www.marketman.com/"
+category: "Kitchen Display & Inventory"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "inventory"
+  - "purchasing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.marketman.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.marketman.com/>\n"
+updated_at: "2026-11-22 03:16"

@@ -1,0 +1,12 @@
+name: "Resy"
+description: "Restaurant reservation and table management software acquired by American Express. Serves fine dining and high-volume venues with guest profiles and waitlists. Paid platform for operators."
+source_url: "https://www.resy.com/"
+category: "Reservations & Waitlists"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "reservations"
+icon_url: "https://icons.duckduckgo.com/ip3/www.resy.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.resy.com/>\n"
+updated_at: "2026-11-22 03:16"

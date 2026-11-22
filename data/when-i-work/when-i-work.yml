@@ -1,0 +1,13 @@
+name: "When I Work"
+description: "Employee scheduling and communication app for hourly teams, including restaurants and retail. Provides shift planning, time tracking, and messaging. Freemium with paid upgrades."
+source_url: "https://www.wheniwork.com/"
+category: "Staff Scheduling"
+tags:
+  - "freemium"
+  - "paid"
+  - "cloud"
+  - "scheduling"
+  - "mobile"
+icon_url: "https://icons.duckduckgo.com/ip3/www.wheniwork.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.wheniwork.com/>\n"
+updated_at: "2026-11-22 03:16"

@@ -1,0 +1,12 @@
+name: "Owner.com"
+description: "Online ordering and marketing platform built for independent restaurants. Includes commission-free ordering, website builder, and guest data tools. Paid monthly subscription."
+source_url: "https://www.owner.com/"
+category: "Online Ordering & Delivery"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "online-ordering"
+icon_url: "https://icons.duckduckgo.com/ip3/www.owner.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.owner.com/>\n"
+updated_at: "2026-11-22 03:16"

@@ -1,0 +1,13 @@
+name: "Deputy"
+description: "Workforce management platform for scheduling, time attendance, and task management. Serves hospitality, retail, and healthcare industries. Paid subscription with API integrations."
+source_url: "https://www.deputy.com/"
+category: "Staff Scheduling"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "enterprise"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/www.deputy.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.deputy.com/>\n"
+updated_at: "2026-11-22 03:16"

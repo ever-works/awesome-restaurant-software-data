@@ -1,0 +1,12 @@
+name: "Slice"
+description: "Online ordering and delivery marketplace focused on independent pizzerias. Provides order routing, marketing tools, and POS integration. Charges per-order fees rather than monthly subscriptions."
+source_url: "https://www.slicelife.com/"
+category: "Online Ordering & Delivery"
+tags:
+  - "paid"
+  - "cloud"
+  - "pizza"
+  - "online-ordering"
+icon_url: "https://icons.duckduckgo.com/ip3/www.slicelife.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.slicelife.com/>\n"
+updated_at: "2026-11-22 03:16"

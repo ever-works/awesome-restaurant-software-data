@@ -1,0 +1,13 @@
+name: "Square for Restaurants"
+description: "Restaurant-specific POS from Square, supporting table management, online ordering, and kitchen display. Offers a free plan for basic processing and paid tiers for advanced features."
+source_url: "https://squareup.com/restaurants"
+category: "Restaurant POS"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "cloud"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/squareup.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://squareup.com/restaurants>\n"
+updated_at: "2026-11-22 03:16"

@@ -1,0 +1,13 @@
+name: "7shifts"
+description: "Employee scheduling and team management platform built for restaurants. Includes shift swapping, time clock, and labor compliance tools. Freemium with paid tiers."
+source_url: "https://www.7shifts.com/"
+category: "Staff Scheduling"
+tags:
+  - "freemium"
+  - "paid"
+  - "cloud"
+  - "api"
+  - "scheduling"
+icon_url: "https://icons.duckduckgo.com/ip3/www.7shifts.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.7shifts.com/>\n"
+updated_at: "2026-11-22 03:16"

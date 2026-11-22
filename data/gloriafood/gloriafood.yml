@@ -1,0 +1,12 @@
+name: "GloriaFood"
+description: "Free online ordering system for restaurants with optional paid add-ons for delivery and advanced features. Includes order taking, table reservations, and a mobile app. Freemium model."
+source_url: "https://www.gloriafood.com/"
+category: "Online Ordering & Delivery"
+tags:
+  - "freemium"
+  - "free-plan"
+  - "cloud"
+  - "online-ordering"
+icon_url: "https://icons.duckduckgo.com/ip3/www.gloriafood.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.gloriafood.com/>\n"
+updated_at: "2026-11-22 03:16"

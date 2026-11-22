@@ -1,0 +1,12 @@
+- id: restaurant-pos
+  name: "Restaurant POS"
+- id: online-ordering-and-delivery
+  name: "Online Ordering & Delivery"
+- id: reservations-and-waitlists
+  name: "Reservations & Waitlists"
+- id: kitchen-display-and-inventory
+  name: "Kitchen Display & Inventory"
+- id: staff-scheduling
+  name: "Staff Scheduling"
+- id: open-source
+  name: "Open Source"

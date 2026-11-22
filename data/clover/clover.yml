@@ -1,0 +1,13 @@
+name: "Clover"
+description: "Modular POS system for restaurants and retail businesses, offered by Fiserv. Supports apps, online ordering, and tableside payment. Paid plans with hardware purchase or lease options."
+source_url: "https://www.clover.com/"
+category: "Restaurant POS"
+tags:
+  - "paid"
+  - "freemium"
+  - "api"
+  - "cloud"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/www.clover.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.clover.com/>\n"
+updated_at: "2026-11-22 03:16"

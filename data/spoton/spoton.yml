@@ -1,0 +1,12 @@
+name: "SpotOn"
+description: "All-in-one restaurant software platform combining POS, payments, marketing, and workforce management. Targets independent restaurants and multi-location brands. Paid subscription model."
+source_url: "https://www.spoton.com/"
+category: "Restaurant POS"
+tags:
+  - "paid"
+  - "cloud"
+  - "api"
+  - "restaurant-pos"
+icon_url: "https://icons.duckduckgo.com/ip3/www.spoton.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.spoton.com/>\n"
+updated_at: "2026-11-22 03:16"
