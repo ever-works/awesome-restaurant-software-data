@@ -1,44 +1,50 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: API
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: restaurant-pos
-  name: "Restaurant POS"
+  name: Restaurant POS
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: ipad
-  name: "iPad"
+  name: iPad
 - id: online-ordering
-  name: "Online Ordering"
+  name: Online Ordering
 - id: pizza
-  name: "Pizza"
+  name: Pizza
 - id: reservations
-  name: "Reservations"
+  name: Reservations
 - id: crm
-  name: "CRM"
+  name: CRM
 - id: inventory
-  name: "Inventory"
+  name: Inventory
 - id: purchasing
-  name: "Purchasing"
+  name: Purchasing
 - id: kds
-  name: "KDS"
+  name: KDS
 - id: kitchen-display
-  name: "Kitchen Display"
+  name: Kitchen Display
 - id: accounting
-  name: "Accounting"
+  name: Accounting
 - id: scheduling
-  name: "Scheduling"
+  name: Scheduling
 - id: mobile
-  name: "Mobile"
+  name: Mobile
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self-Hosted
 - id: erp
-  name: "ERP"
+  name: ERP
+- id: cloud-based
+  name: Cloud Based
+- id: multi-location
+  name: Multi Location
+- id: embedded-payments
+  name: Embedded Payments

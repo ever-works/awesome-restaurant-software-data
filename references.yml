@@ -1,8 +1,20 @@
-- url: "https://www.softwaresuggest.com/restaurant-management-software"
-  title: "SoftwareSuggest — Restaurant Management software"
-- url: "https://www.softwaresuggest.com/restaurant-pos-software"
-  title: "SoftwareSuggest — Restaurant POS Software"
-- url: "https://www.softwaresuggest.com/food-delivery-software"
-  title: "SoftwareSuggest — Food Delivery Software"
-- url: "https://github.com/topics/restaurant"
-  title: "GitHub topic — `restaurant` (3,188 repos)"
+- url: https://github.com/topics/restaurant
+  title: GitHub topic — `restaurant` (3,188 repos)
+  normalized_url: https://github.com/topics/restaurant
+- url: https://www.lightspeedhq.com/pos/restaurant
+  normalized_url: https://www.lightspeedhq.com/pos/restaurant
+  first_seen_at: 2026-11-23T03:33:48.369Z
+  last_attempted_at: 2026-11-23T03:33:48.369Z
+  last_success_at: 2026-11-23T03:33:48.369Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/food-delivery-software
+  title: SoftwareSuggest — Food Delivery Software
+  normalized_url: https://www.softwaresuggest.com/food-delivery-software
+- url: https://www.softwaresuggest.com/restaurant-management-software
+  title: SoftwareSuggest — Restaurant Management software
+  normalized_url: https://www.softwaresuggest.com/restaurant-management-software
+- url: https://www.softwaresuggest.com/restaurant-pos-software
+  title: SoftwareSuggest — Restaurant POS Software
+  normalized_url: https://www.softwaresuggest.com/restaurant-pos-software
