@@ -7,7 +7,7 @@
 - id: cloud
   name: Cloud
 - id: restaurant-pos
-  name: Restaurant POS
+  name: Restaurant Pos
 - id: freemium
   name: Freemium
 - id: free-plan
@@ -39,12 +39,14 @@
 - id: open-source
   name: Open Source
 - id: self-hosted
-  name: Self-Hosted
+  name: Self Hosted
 - id: erp
-  name: ERP
+  name: Erp
 - id: cloud-based
   name: Cloud Based
 - id: multi-location
   name: Multi Location
 - id: embedded-payments
   name: Embedded Payments
+- id: flutter
+  name: Flutter

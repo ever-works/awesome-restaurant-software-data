@@ -1,6 +1,38 @@
 - url: https://github.com/topics/restaurant
-  title: GitHub topic — `restaurant` (3,188 repos)
   normalized_url: https://github.com/topics/restaurant
+  first_seen_at: 2026-11-27T00:14:08.928Z
+  last_attempted_at: 2026-11-27T00:14:08.928Z
+  last_success_at: 2026-11-27T00:14:08.928Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://pos.toasttab.com/
+  normalized_url: https://pos.toasttab.com/
+  first_seen_at: 2026-11-27T00:14:48.626Z
+  last_attempted_at: 2026-11-27T00:14:48.626Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://pos.toasttab.com/"
+- url: https://spoton.com
+  normalized_url: https://spoton.com/
+  first_seen_at: 2026-11-27T00:15:56.927Z
+  last_attempted_at: 2026-11-27T00:15:56.927Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://spoton.com"
+- url: https://squareup.com/us/en/restaurants
+  normalized_url: https://squareup.com/us/en/restaurants
+  first_seen_at: 2026-11-27T00:15:10.614Z
+  last_attempted_at: 2026-11-27T00:15:10.614Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://squareup.com/us/en/restaurants"
 - url: https://www.lightspeedhq.com/pos/restaurant
   normalized_url: https://www.lightspeedhq.com/pos/restaurant
   first_seen_at: 2026-11-23T03:33:48.369Z
@@ -10,11 +42,41 @@
   items_created: 1
   pipeline: agent-pipeline
 - url: https://www.softwaresuggest.com/food-delivery-software
-  title: SoftwareSuggest — Food Delivery Software
   normalized_url: https://www.softwaresuggest.com/food-delivery-software
+  first_seen_at: 2026-11-27T00:10:00.692Z
+  last_attempted_at: 2026-11-27T00:10:00.692Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/food-delivery-software"
 - url: https://www.softwaresuggest.com/restaurant-management-software
-  title: SoftwareSuggest — Restaurant Management software
   normalized_url: https://www.softwaresuggest.com/restaurant-management-software
+  first_seen_at: 2026-11-27T00:09:15.057Z
+  last_attempted_at: 2026-11-27T00:09:15.057Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/restaurant-management-software"
 - url: https://www.softwaresuggest.com/restaurant-pos-software
-  title: SoftwareSuggest — Restaurant POS Software
   normalized_url: https://www.softwaresuggest.com/restaurant-pos-software
+  first_seen_at: 2026-11-27T00:09:36.951Z
+  last_attempted_at: 2026-11-27T00:09:36.951Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/restaurant-pos-software"
+- url: https://www.touchbistro.com/pos
+  normalized_url: https://www.touchbistro.com/pos
+  first_seen_at: 2026-11-27T00:15:40.740Z
+  last_attempted_at: 2026-11-27T00:15:40.740Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.touchbistro.com/pos"

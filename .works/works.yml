@@ -71,7 +71,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.1
+version: 0.1.2
 activity_sync:
   mode: pull
 providers:
@@ -190,3 +190,4 @@ metadata:
 
     Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt,
     SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free
