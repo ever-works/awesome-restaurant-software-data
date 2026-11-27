@@ -1,0 +1,40 @@
+name: SwiggyUI
+description: A Flutter user-interface replica of the Swiggy food delivery
+  platform. An open-source repository providing frontend screens for a food
+  delivery app. Open source and self-hosted.
+source_url: https://github.com/swiggyui/swiggyui
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - online-ordering
+  - flutter
+featured: false
+markdown: >
+  ## Overview
+
+
+  SwiggyUI is an open-source Flutter user-interface replica of the Swiggy food
+  delivery platform.
+
+
+  ## Pricing
+
+
+  Open source. Free to use and self-host.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Links
+
+
+  - Repository: <https://github.com/swiggyui/swiggyui>
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-27 00:16

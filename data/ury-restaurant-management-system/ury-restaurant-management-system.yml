@@ -1,0 +1,32 @@
+name: URY
+description: URY is a FOSS (free and open-source software) restaurant management
+  system built on top of ERPNext. An open-source TypeScript repository. Open
+  source and self-hosted.
+source_url: https://github.com/ury-pos/ury
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - erp
+  - restaurant-pos
+featured: false
+markdown: |
+  ## Overview
+
+  URY is a FOSS restaurant management system super powered by ERPNext.
+
+  ## Pricing
+
+  Open source. Free to use and self-host.
+
+  ## Deployment
+
+  Self-hosted.
+
+  ## Links
+
+  - Repository: <https://github.com/ury-pos/ury>
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-27 00:16

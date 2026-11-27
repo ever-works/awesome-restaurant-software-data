@@ -1,0 +1,40 @@
+name: URY POS
+description: URY POS is a web-based order management system for cashiers and
+  captains, supporting dine-in, delivery, and takeout. Part of the URY ERP
+  suite. Open source and self-hosted.
+source_url: https://github.com/ury-pos/ury-pos
+category: Open Source
+tags:
+  - open-source
+  - self-hosted
+  - restaurant-pos
+  - online-ordering
+featured: false
+markdown: >
+  ## Overview
+
+
+  URY POS is a web-based order management system for cashiers and captains. It
+  supports dine-in, delivery, and takeout and is part of the URY ERP suite.
+
+
+  ## Pricing
+
+
+  Open source. Free to use and self-host.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Links
+
+
+  - Repository: <https://github.com/ury-pos/ury-pos>
+brand: null
+brand_logo_url: null
+images: []
+updated_at: 2026-11-27 00:16
